@@ -1,8 +1,8 @@
 
 # LET'S SHOP
 
-Implemented features of a e-commerce website. 
-
+- [Implemented features of a e-commerce website.]
+ 
 
 ## Features of Let's Shop
 
