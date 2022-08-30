@@ -1,7 +1,7 @@
 
 # LET'S SHOP
 
-Let's Shop is an e-commerce website. 
+Implemented features of a e-commerce website. 
 
 
 ## Features of Let's Shop
@@ -10,8 +10,6 @@ Let's Shop is an e-commerce website.
  - [Used Visual studio , Asp.net, C#, MS-SQL, Javascript, HTML / CSS for database.]
  - [Add to cart option, User and Admin ( add, delete, update products) module.]
  - [Responsive website.]
-
-
 
 
 ## Take a look inside Lets-Shop 
